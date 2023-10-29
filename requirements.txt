@@ -1,0 +1,5 @@
+einops==0.3.2
+numpy==1.21.2
+python_Levenshtein==0.23.0
+scikit_learn==1.0.1
+torch==1.10.0
