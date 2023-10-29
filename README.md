@@ -9,7 +9,7 @@
 
 - Clone the repo
 ``` sh
-git clone https://github.com/wenet-e2e/wenet.git
+git clone https://github.com/qinyunnn/Multi-Read-Reconstruction.git
 ```
 
 - Install Conda: please see https://docs.conda.io/en/latest/miniconda.html
