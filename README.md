@@ -26,10 +26,10 @@ pip install -r requirements.txt
 ## Usage
 
 We provided a training example in examples.
-
+s
 ## Data Preparation
 ```
-# put your dataset under data/ directory with the same structure shown in the example/data/
+# put your dataset under data/ directory with the same structure shown in the examples/data/
 
 data
  |-reads.txt
