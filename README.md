@@ -1,4 +1,4 @@
-# SRNet
+# RobuSeqNet
 
 
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 We provided a training example in examples.
 s
-## Data Preparation
+### Data Preparation
 ```
 # put your dataset under data/ directory with the same structure shown in the examples/data/
 
