@@ -36,7 +36,7 @@ data
  |-reference.txt
 ```
 
-### Notices:
+### Notice:
 * In reads.txt, the adjacent two clusters are segmented using '==============================='. For example:
 ```
 AACCAATACCTTGAACCTAACTCGAGTTAACAAACGCAATTCACAGAACAAGGACGTCGGACGGTGTCCAGAATACCGGCCTCGTGACCGTGGCCAGGGAACCTGACAATGTCAGGCCTTACCGACACACGCAACCTCTTGCTGAAAGGCCT
